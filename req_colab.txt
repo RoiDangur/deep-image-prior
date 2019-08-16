@@ -1,5 +1,4 @@
 jupyter
-nb_conda
 numpy
 pyyaml
 mkl
